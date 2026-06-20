@@ -1,67 +1,99 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+&lt;div align="center"&gt;
+  &lt;img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=36BCF7&colorEnd=6B5DD3&height=200&section=header&text=Welcome+to+my+GitHub%21&fontSize=30&fontColor=ffffff&animation=none&gradientDirection=horizontal&parallax=true&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=33" /&gt;
+&lt;/div&gt;
 
-###
+# Hi, I'm Prajwal 👋
 
-<h3 data-importer="text" align="center">Teaching rocks to think via lightning 🖥️⚡🧠</h3>
+**Full-stack dev & Graphics Designer**
 
-###
+&lt;!-- Typing animation --&gt;
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+beautiful+web+experiences+%E2%9C%A6;Turning+designs+into+pixel-perfect+code;Always+learning+something+new)](https://git.io/typing-svg)
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-</div>
+&lt;!-- Social links — update these URLs with your own --&gt;
+[![Twitter](https://img.shields.io/badge/Twitter_/_X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/PrajwalBasnet0219)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio-url.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-###
+&lt;/div&gt;
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrajwalBasnet0219/PrajwalBasnet0219/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrajwalBasnet0219/PrajwalBasnet0219/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PrajwalBasnet0219/PrajwalBasnet0219/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
+---
 
-###
+## 🖥️ About Me
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=PrajwalBasnet0219&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/PrajwalBasnet0219/PrajwalBasnet0219/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+&lt;div align="center"&gt;
+  &lt;img src="asset/neofetch.svg" alt="Prajwal neofetch" width="680" /&gt;
+&lt;/div&gt;
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/PrajwalBasnet0219/PrajwalBasnet0219/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/PrajwalBasnet0219/PrajwalBasnet0219/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 💻 Tech Stack
 
-###
+**Frontend**
 
-<div data-importer="socials" align="center">
-  <a href="rei2kuozaki" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.facebook.com/rei.kuozaki" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="prajwalbasnet0219@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
 
-###
+**Tools & Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)
+
+---
+
+## 📊 GitHub Stats
+
+&lt;div align="center"&gt;
+
+&lt;img src="https://raw.githubusercontent.com/PrajwalBasnet0219/PrajwalBasnet0219/snake-output/snake.svg" alt="Snake animation" /&gt;
+&lt;img width="100%" src="https://streak-stats.demolab.com/?user=PrajwalBasnet0219&theme=github-dark-blue&hide_border=true" /&gt;
+
+&lt;/div&gt;
+
+---
+
+## 🏆 GitHub Trophies
+
+&lt;div align="center"&gt;
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=PrajwalBasnet0219&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1)
+
+&lt;/div&gt;
+
+---
+
+## 🐍 Contribution Graph
+
+&lt;picture&gt;
+  &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrajwalBasnet0219/PrajwalBasnet0219/snake-output/github-snake-dark.svg"&gt;
+  &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrajwalBasnet0219/PrajwalBasnet0219/snake-output/github-snake.svg"&gt;
+  &lt;img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/PrajwalBasnet0219/PrajwalBasnet0219/snake-output/github-snake.svg"&gt;
+&lt;/picture&gt;
+
+---
+
+## ❤️ Support My Work
+
+If you find my projects helpful, consider buying me a coffee!
+
+&lt;a href="https://buymeacoffee.com/PrajwalBasnet0219"&gt;
+  &lt;img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000" /&gt;
+&lt;/a&gt;
+&nbsp;
+&lt;a href="https://ko-fi.com/PrajwalBasnet0219"&gt;
+  &lt;img src="https://img.shields.io/badge/Ko--fi-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=fff" /&gt;
+&lt;/a&gt;
+
+---
+
+&lt;div align="center"&gt;
+  &lt;img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=36BCF7&colorEnd=6B5DD3&height=120&section=footer&text=Thanks+for+visiting%21&fontSize=24&fontColor=ffffff&animation=none&gradientDirection=horizontal&parallax=true&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=66" /&gt;
+&lt;/div&gt;
